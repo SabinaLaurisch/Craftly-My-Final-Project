@@ -46,7 +46,7 @@ These questions guided the development of my presentation and recommendations.
 
 ## Tasks Completed
 
-- Built and designed the website using HTML and CSS.
+- Built and designed the website using HTML and CSS, java Script.
 - Created a tracking measurement plan for implementation in Google Tag Manager.
 - Developed a tool provider decision matrix to update the MarTech stack for Craftly.
 - Implemented all necessary tags in Google Tag Manager.
